@@ -1,0 +1,14 @@
+div {
+    width: 10px;
+    height : 10px;
+    background-color: aquamarine;
+    margin : 5px;
+    padding : 10px;
+}
+
+span { 
+    width : 10px;
+    height : 10px;
+    background-color: aquamarine;
+    padding : 10px;
+}
